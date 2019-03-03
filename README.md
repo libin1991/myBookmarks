@@ -1,4 +1,5 @@
 # 小清新导航
+### [如何用JS做一个小清新导航？](https://juejin.im/post/5c77b1ecf265da2dad2ffbe9)
 
 ## 前言
 
